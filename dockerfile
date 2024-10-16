@@ -1,4 +1,5 @@
 FROM python:3.12
+FROM python:3.12.7-alpine
 LABEL author="Zeeshan"
 COPY . /web
 WORKDIR /web
