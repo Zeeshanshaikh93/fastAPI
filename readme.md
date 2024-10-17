@@ -29,6 +29,5 @@
  ![Preview](images/docker.05.png)
 
 Therefore, it executes
- ![Preview](images/docker.06.png)
 
  
