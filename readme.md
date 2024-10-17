@@ -25,9 +25,9 @@
 * Build the image, give access to the Port. 
 * ![Preview](images/docker.04.png)
 * Now check it will be running on your internet 
-*   http://<ipaddress>:PortNumber/docs
+*   "http://ipaddress:PortNumber/docs"
  ![Preview](images/docker.05.png)
 
-Therefore, it executes
+Therefore, it executes.
 
  
