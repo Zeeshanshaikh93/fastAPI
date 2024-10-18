@@ -39,9 +39,15 @@ Therefore, it executes.
 * Then Build the image on ubuntu server
 ![Preview](images/docker.07.png)
  
-![Preview](images/docker.08.png)
+![Preview](images/docker.08.png) 
 
 * After this executes it on Local host 
 ![Preview](images/docker.09.png)
 
 * This was the Fat & Slim Version of APIs 
+
+### Using a non root User
+
+* Nobody is the non root user in my machine. I have taken this to run the files.
+* Check down below for the changes, 
+  ![Preview](images/docker.10.png)
