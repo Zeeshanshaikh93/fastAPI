@@ -30,4 +30,18 @@
 
 Therefore, it executes.
 
+
+* Slim version of API 
+    Firstly, it was approx *1.09 GB*, We have to reduce its size as it will run slowwly.
+* Change the *FROM* command,   
+![Preview](images/docker.06.png)
+
+* Then Build the image on ubuntu server
+![Preview](images/docker.07.png)
  
+![Preview](images/docker.08.png)
+
+* After this executes it on Local host 
+![Preview](images/docker.09.png)
+
+* This was the Fat & Slim Version of APIs 
